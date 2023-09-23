@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"calculatePersonalTax","l":"Presentation"},{"p":"calculatePersonalTax","l":"TaxCalculator"},{"p":"calculatePersonalTax","l":"TaxTable"}];updateSearchResults();
